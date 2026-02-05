@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.04
+## Updated on 2026.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**RIGA-Fold: A General Framework for Protein Inverse Folding via Recurrent Interaction and Geometric Awareness**|Sisi Yuan et.al.|[2602.04637](http://arxiv.org/abs/2602.04637)|null|
+|**2026-02-03**|**TiCLS : Tightly Coupled Language Text Spotter**|Leeje Jang et.al.|[2602.04030](http://arxiv.org/abs/2602.04030)|null|
 |**2026-02-03**|**Generative AI for Enzyme Design and Biocatalysis**|Lasse Middendorf et.al.|[2602.03779](http://arxiv.org/abs/2602.03779)|null|
 |**2026-02-02**|**Repurposing Protein Language Models for Latent Flow-Based Fitness Optimization**|Amaru Caceres Arroyo et.al.|[2602.02425](http://arxiv.org/abs/2602.02425)|null|
 |**2026-02-02**|**Extending the Law of Intersegmental Coordination: Implications for Powered Prosthetic Controls**|Elad Siman Tov et.al.|[2602.02181](http://arxiv.org/abs/2602.02181)|null|
@@ -43,6 +45,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**MS-SCANet: A Multiscale Transformer-Based Architecture with Dual Attention for No-Reference Image Quality Assessment**|Mayesha Maliha R. Mithila et.al.|[2602.04032](http://arxiv.org/abs/2602.04032)|null|
 |**2026-02-02**|**Automated Multiple Mini Interview (MMI) Scoring**|Ryan Huynh et.al.|[2602.02360](http://arxiv.org/abs/2602.02360)|null|
 |**2026-01-29**|**GeoRC: A Benchmark for Geolocation Reasoning Chains**|Mohit Talreja et.al.|[2601.21278](http://arxiv.org/abs/2601.21278)|null|
 |**2026-01-24**|**WarrantScore: Modeling Warrants between Claims and Evidence for Substantiation Evaluation in Peer Reviews**|Kiyotada Mori et.al.|[2601.17377](http://arxiv.org/abs/2601.17377)|null|
@@ -64,6 +67,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**mmcmcBayes:An R Package Implementing a Multistage MCMC Framework for Detecting the Differentially Methylated Regions**|Zhexuan Yang et.al.|[2602.04554](http://arxiv.org/abs/2602.04554)|null|
+|**2026-02-04**|**Sparse group principal component analysis via double thresholding with application to multi-cellular programs**|Qi Xu et.al.|[2602.04178](http://arxiv.org/abs/2602.04178)|null|
+|**2026-02-03**|**RareCollab -- An Agentic System Diagnosing Mendelian Disorders with Integrated Phenotypic and Molecular Evidence**|Guantong Qi et.al.|[2602.04058](http://arxiv.org/abs/2602.04058)|null|
 |**2026-02-03**|**ScDiVa: Masked Discrete Diffusion for Joint Modeling of Single-Cell Identity and Expression**|Mingxuan Wang et.al.|[2602.03477](http://arxiv.org/abs/2602.03477)|null|
 |**2026-02-03**|**MARADONER: Motif Activity Response Analysis Done Right**|Georgy Meshcheryakov et.al.|[2602.03343](http://arxiv.org/abs/2602.03343)|null|
 |**2026-02-03**|**Empirical Bayes Shrinkage of Functional Effects, with Application to Analysis of Dynamic eQTLs**|Ziang Zhang et.al.|[2602.03077](http://arxiv.org/abs/2602.03077)|null|
@@ -177,7 +183,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-03**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
+|**2026-02-04**|**DMFlow: Disordered Materials Generation by Flow Matching**|Liming Wu et.al.|[2602.04734](http://arxiv.org/abs/2602.04734)|null|
+|**2026-02-04**|**Temporal Slowness in Central Vision Drives Semantic Object Learning**|Timothy Schaumlöffel et.al.|[2602.04462](http://arxiv.org/abs/2602.04462)|null|
+|**2026-02-04**|**Mixture of Masters: Sparse Chess Language Models with Player Routing**|Giacomo Frisoni et.al.|[2602.04447](http://arxiv.org/abs/2602.04447)|null|
+|**2026-02-04**|**Aortic Valve Disease Detection from PPG via Physiology-Informed Self-Supervised Learning**|Jiaze Wang et.al.|[2602.04266](http://arxiv.org/abs/2602.04266)|null|
+|**2026-02-04**|**Frontend Token Enhancement for Token-Based Speech Recognition**|Takanori Ashihara et.al.|[2602.04217](http://arxiv.org/abs/2602.04217)|null|
+|**2026-02-04**|**Continuous Degradation Modeling via Latent Flow Matching for Real-World Super-Resolution**|Hyeonjae Kim et.al.|[2602.04193](http://arxiv.org/abs/2602.04193)|null|
+|**2026-02-04**|**PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion**|Vikentii Pankov et.al.|[2602.04160](http://arxiv.org/abs/2602.04160)|null|
+|**2026-02-03**|**VLS: Steering Pretrained Robot Policies via Vision-Language Models**|Shuo Liu et.al.|[2602.03973](http://arxiv.org/abs/2602.03973)|null|
+|**2026-02-04**|**Conditional Flow Matching for Visually-Guided Acoustic Highlighting**|Hugo Malard et.al.|[2602.03762](http://arxiv.org/abs/2602.03762)|null|
 |**2026-02-03**|**Self-supervised Physics-Informed Manipulation of Deformable Linear Objects with Non-negligible Dynamics**|Youyuan Long et.al.|[2602.03623](http://arxiv.org/abs/2602.03623)|null|
 |**2026-02-03**|**A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures**|Basile Terver et.al.|[2602.03604](http://arxiv.org/abs/2602.03604)|null|
 |**2026-02-03**|**CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting**|Yaguo Liu et.al.|[2602.03564](http://arxiv.org/abs/2602.03564)|null|
@@ -296,6 +310,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas**|Aqsa Sultana et.al.|[2602.04819](http://arxiv.org/abs/2602.04819)|null|
+|**2026-02-04**|**Covariate Selection for Joint Latent Space Modeling of Sparse Network Data**|Emma G Crenshaw et.al.|[2602.04682](http://arxiv.org/abs/2602.04682)|null|
+|**2026-02-04**|**Inference for Within- and Between-Partnership Transmission Rates for HIV Infection**|Irene García Muñoz et.al.|[2602.04638](http://arxiv.org/abs/2602.04638)|null|
+|**2026-02-04**|**HoloHema: Digital Holographic Hematology Analyzer**|Andreas Erik Gejl Madsen et.al.|[2602.04618](http://arxiv.org/abs/2602.04618)|null|
+|**2026-02-04**|**LEAD: Layer-wise Expert-aligned Decoding for Faithful Radiology Report Generation**|Ruixiao Yang et.al.|[2602.04617](http://arxiv.org/abs/2602.04617)|null|
+|**2026-02-04**|**Structures of iron and cobalt bimetallic clusters for optimized chemical vapor deposition growth of single-walled carbon nanotubes**|Qingmei Hu et.al.|[2602.04606](http://arxiv.org/abs/2602.04606)|null|
+|**2026-02-04**|**OmniRad: A Radiological Foundation Model for Multi-Task Medical Image Analysis**|Luca Zedda et.al.|[2602.04547](http://arxiv.org/abs/2602.04547)|null|
+|**2026-02-04**|**Triple Junctions as Dislocation-Like Defects: The Role of Grain Boundary Crystallography Revealed by Experiment and Atomistic Simulation**|Tobias Brink et.al.|[2602.04530](http://arxiv.org/abs/2602.04530)|null|
+|**2026-02-04**|**An Intuitionistic Fuzzy Logic Driven UNet architecture: Application to Brain Image segmentation**|Hanuman Verma et.al.|[2602.04227](http://arxiv.org/abs/2602.04227)|null|
+|**2026-02-04**|**Improving 2D Diffusion Models for 3D Medical Imaging with Inter-Slice Consistent Stochasticity**|Chenhe Du et.al.|[2602.04162](http://arxiv.org/abs/2602.04162)|null|
 |**2026-02-03**|**Origin of mixed anisotropy in crystalline Permalloy and amorphous Cobalt thin films individually deposited on Si substrate**|Kirti Kirti et.al.|[2602.03804](http://arxiv.org/abs/2602.03804)|null|
 |**2026-02-03**|**Reducing acquisition time and radiation damage: data-driven subsampling for spectro-microscopy**|Maike Meier et.al.|[2602.03744](http://arxiv.org/abs/2602.03744)|null|
 |**2026-02-03**|**Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|[2602.03622](http://arxiv.org/abs/2602.03622)|null|
