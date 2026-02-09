@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Know Your Scientist: KYC as Biosecurity Infrastructure**|Jonathan Feldman et.al.|[2602.06172](http://arxiv.org/abs/2602.06172)|null|
 |**2026-02-05**|**Mechanisms of AI Protein Folding in ESMFold**|Kevin Lu et.al.|[2602.06020](http://arxiv.org/abs/2602.06020)|null|
 |**2026-02-04**|**RIGA-Fold: A General Framework for Protein Inverse Folding via Recurrent Interaction and Geometric Awareness**|Sisi Yuan et.al.|[2602.04637](http://arxiv.org/abs/2602.04637)|null|
 |**2026-02-03**|**TiCLS : Tightly Coupled Language Text Spotter**|Leeje Jang et.al.|[2602.04030](http://arxiv.org/abs/2602.04030)|null|
@@ -58,7 +59,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-04**|**AFD-INSTRUCTION: A Comprehensive Antibody Instruction Dataset with Functional Annotations for LLM-Based Understanding and Design**|Ling Luo et.al.|[2602.04916](http://arxiv.org/abs/2602.04916)|null|
+|**2026-02-06**|**AFD-INSTRUCTION: A Comprehensive Antibody Instruction Dataset with Functional Annotations for LLM-Based Understanding and Design**|Ling Luo et.al.|[2602.04916](http://arxiv.org/abs/2602.04916)|null|
 |**2026-02-03**|**MS-SCANet: A Multiscale Transformer-Based Architecture with Dual Attention for No-Reference Image Quality Assessment**|Mayesha Maliha R. Mithila et.al.|[2602.04032](http://arxiv.org/abs/2602.04032)|null|
 |**2026-02-02**|**Automated Multiple Mini Interview (MMI) Scoring**|Ryan Huynh et.al.|[2602.02360](http://arxiv.org/abs/2602.02360)|null|
 |**2026-01-29**|**GeoRC: A Benchmark for Geolocation Reasoning Chains**|Mohit Talreja et.al.|[2601.21278](http://arxiv.org/abs/2601.21278)|null|
@@ -83,6 +84,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-06**|**Unlocking Noisy Real-World Corpora for Foundation Model Pre-Training via Quality-Aware Tokenization**|Arvid E. Gollwitzer et.al.|[2602.06394](http://arxiv.org/abs/2602.06394)|null|
 |**2026-02-05**|**Learning False Discovery Rate Control via Model-Based Neural Networks**|Arnau Vilella et.al.|[2602.05798](http://arxiv.org/abs/2602.05798)|null|
 |**2026-02-05**|**Boxplots and quartile plots for grouped and periodic angular data**|Joshua D. Berlinski et.al.|[2602.05335](http://arxiv.org/abs/2602.05335)|null|
 |**2026-02-05**|**Polynomial-Time Solutions for Longest Common Subsequence Related Problems Between a Sequence and a Pangenome Graph**|Xingfu Li et.al.|[2602.05193](http://arxiv.org/abs/2602.05193)|null|
@@ -179,7 +181,7 @@
 |**2026-02-05**|**SpARCD: A Spectral Graph Framework for Revealing Differential Functional Connectivity in fMRI Data**|Shira Yoffe et.al.|[2602.05807](http://arxiv.org/abs/2602.05807)|null|
 |**2026-02-05**|**Phi-Former: A Pairwise Hierarchical Approach for Compound-Protein Interactions Prediction**|Zhe Wang et.al.|[2602.05479](http://arxiv.org/abs/2602.05479)|null|
 |**2026-02-02**|**Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harmful Distribution Shifts**|Guangyi Zhang et.al.|[2602.02229](http://arxiv.org/abs/2602.02229)|null|
-|**2026-02-02**|**Cardinality-Preserving Structured Sparse Graph Transformers for Molecular Property Prediction**|Abhijit Gupta et.al.|[2602.02201](http://arxiv.org/abs/2602.02201)|null|
+|**2026-02-05**|**Cardinality-Preserving Structured Sparse Graph Transformers for Molecular Property Prediction**|Abhijit Gupta et.al.|[2602.02201](http://arxiv.org/abs/2602.02201)|null|
 |**2026-01-31**|**Harnessing the Peripheral Surface Information Entropy from Globular Protein-Peptide Complexes**|Tyler Grear et.al.|[2602.00498](http://arxiv.org/abs/2602.00498)|null|
 |**2026-01-29**|**Measuring node similarity using minimum cycles in networks**|Bo Yang et.al.|[2601.21783](http://arxiv.org/abs/2601.21783)|null|
 |**2026-01-29**|**Computational investigation of single herbal drugs in Ayurveda for diabetes and obesity using knowledge graph and network pharmacology**|Priyotosh Sil et.al.|[2601.21643](http://arxiv.org/abs/2601.21643)|null|
@@ -214,6 +216,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-06**|**NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices**|Ruchika Chavhan et.al.|[2602.06879](http://arxiv.org/abs/2602.06879)|null|
+|**2026-02-06**|**FlowDA: Accurate, Low-Latency Weather Data Assimilation via Flow Matching**|Ran Cheng et.al.|[2602.06800](http://arxiv.org/abs/2602.06800)|null|
+|**2026-02-06**|**SaDiT: Efficient Protein Backbone Design via Latent Structural Tokenization and Diffusion Transformers**|Shentong Mo et.al.|[2602.06706](http://arxiv.org/abs/2602.06706)|null|
+|**2026-02-06**|**Crowd-FM: Learned Optimal Selection of Conditional Flow Matching-generated Trajectories for Crowd Navigation**|Antareep Singha et.al.|[2602.06698](http://arxiv.org/abs/2602.06698)|null|
+|**2026-02-06**|**Memory-Conditioned Flow-Matching for Stable Autoregressive PDE Rollouts**|Victor Armegioiu et.al.|[2602.06689](http://arxiv.org/abs/2602.06689)|null|
+|**2026-02-06**|**Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO**|Yunze Tong et.al.|[2602.06422](http://arxiv.org/abs/2602.06422)|null|
+|**2026-02-06**|**MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training**|Lucia Gordon et.al.|[2602.06285](http://arxiv.org/abs/2602.06285)|null|
+|**2026-02-05**|**ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning**|Aman Anand et.al.|[2602.06251](http://arxiv.org/abs/2602.06251)|null|
+|**2026-02-05**|**STACodec: Semantic Token Assignment for Balancing Acoustic Fidelity and Semantic Information in Audio Codecs**|Kaiyuan Zhang et.al.|[2602.06180](http://arxiv.org/abs/2602.06180)|null|
+|**2026-02-05**|**Flow Matching for Offline Reinforcement Learning with Discrete Actions**|Fairoz Nower Khan et.al.|[2602.06138](http://arxiv.org/abs/2602.06138)|null|
 |**2026-02-05**|**Better Source, Better Flow: Learning Condition-Dependent Source Distribution for Flow Matching**|Junwan Kim et.al.|[2602.05951](http://arxiv.org/abs/2602.05951)|null|
 |**2026-02-05**|**OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention**|Zhangquan Chen et.al.|[2602.05847](http://arxiv.org/abs/2602.05847)|null|
 |**2026-02-05**|**Self-Supervised Learning with a Multi-Task Latent Space Objective**|Pierre-François De Plaen et.al.|[2602.05845](http://arxiv.org/abs/2602.05845)|null|
@@ -299,6 +311,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-06**|**NECromancer: Breathing Life into Skeletons via BVH Animation**|Mingxi Xu et.al.|[2602.06548](http://arxiv.org/abs/2602.06548)|null|
+|**2026-02-06**|**CORE: Comprehensive Ontological Relation Evaluation for Large Language Models**|Satyam Dwivedi et.al.|[2602.06446](http://arxiv.org/abs/2602.06446)|null|
+|**2026-02-05**|**PhenoLIP: Integrating Phenotype Ontology Knowledge into Medical Vision-Language Pretraining**|Cheng Liang et.al.|[2602.06184](http://arxiv.org/abs/2602.06184)|null|
 |**2026-02-05**|**Generative Ontology: When Structured Knowledge Learns to Create**|Benny Cheung et.al.|[2602.05636](http://arxiv.org/abs/2602.05636)|null|
 |**2026-02-05**|**Ontology-Driven Robotic Specification Synthesis**|Maksym Figat et.al.|[2602.05456](http://arxiv.org/abs/2602.05456)|null|
 |**2026-02-05**|**Prediction Laundering: The Illusion of Neutrality, Transparency, and Governance in Polymarket**|Yasaman Rohanifar et.al.|[2602.05181](http://arxiv.org/abs/2602.05181)|null|
@@ -358,6 +373,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-06**|**MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images**|Ankan Deria et.al.|[2602.06965](http://arxiv.org/abs/2602.06965)|null|
+|**2026-02-06**|**Reliable Mislabel Detection for Video Capsule Endoscopy Data**|Julia Werner et.al.|[2602.06938](http://arxiv.org/abs/2602.06938)|null|
+|**2026-02-06**|**The First Known Problem That Is FPT with Respect to Node Scanwidth but Not Treewidth**|Jannik Schestag et.al.|[2602.06903](http://arxiv.org/abs/2602.06903)|null|
+|**2026-02-06**|**CytoCrowd: A Multi-Annotator Benchmark Dataset for Cytology Image Analysis**|Yonghao Si et.al.|[2602.06674](http://arxiv.org/abs/2602.06674)|null|
+|**2026-02-06**|**Tensor network dynamical message passing for epidemic models**|Cheng Ye et.al.|[2602.06497](http://arxiv.org/abs/2602.06497)|null|
+|**2026-02-06**|**Epitaxial growth and magneto-transport properties of kagome metal FeGe thin films**|Xiaoyue Song et.al.|[2602.06344](http://arxiv.org/abs/2602.06344)|null|
+|**2026-02-06**|**Shallow Trap States Control Electrical Performance of Amorphous Oxide Semiconductor Thin-Film Transistors**|Måns J. Mattsson et.al.|[2602.06329](http://arxiv.org/abs/2602.06329)|null|
+|**2026-02-06**|**How (Not) to Hybridize Neural and Mechanistic Models for Epidemiological Forecasting**|Yiqi Su et.al.|[2602.06323](http://arxiv.org/abs/2602.06323)|null|
+|**2026-02-06**|**Modeling the Hazard Function with Non-linear Systems in Dynamical Survival Analysis**|Dananjani Liyanage et.al.|[2602.06322](http://arxiv.org/abs/2602.06322)|null|
+|**2026-02-06**|**Direct laser writing of high aspect ratio nanochannels for nanofluidics**|Stoffel D. Janssens et.al.|[2602.06316](http://arxiv.org/abs/2602.06316)|null|
 |**2026-02-05**|**Geometry and dynamical morphology of growing bacterial colonies**|Benjamin Evert Himberg et.al.|[2602.05958](http://arxiv.org/abs/2602.05958)|null|
 |**2026-02-05**|**Multi-Scale Global-Instance Prompt Tuning for Continual Test-time Adaptation in Medical Image Segmentation**|Lingrui Li et.al.|[2602.05937](http://arxiv.org/abs/2602.05937)|null|
 |**2026-02-05**|**Contour Refinement using Discrete Diffusion in Low Data Regime**|Fei Yu Guan et.al.|[2602.05880](http://arxiv.org/abs/2602.05880)|null|
