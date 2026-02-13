@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.02.12
+## Updated on 2026.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Protein Circuit Tracing via Cross-layer Transcoders**|Darin Tsui et.al.|[2602.12026](http://arxiv.org/abs/2602.12026)|null|
+|**2026-02-11**|**Out-of-equilibrium selection pressure enhances inference from protein sequence data**|Nicola Dietler et.al.|[2602.11427](http://arxiv.org/abs/2602.11427)|null|
+|**2026-02-11**|**Hierarchical Testing of a Hybrid Machine Learning-Physics Global Atmosphere Model**|Ziming Chen et.al.|[2602.11313](http://arxiv.org/abs/2602.11313)|null|
+|**2026-02-11**|**Protein Language Model Embeddings Improve Generalization of Implicit Transfer Operators**|Panagiotis Antoniadis et.al.|[2602.11216](http://arxiv.org/abs/2602.11216)|null|
 |**2026-02-11**|**Note on the trace of random walks on pseudorandom graphs**|Yaobin Chen et.al.|[2602.10970](http://arxiv.org/abs/2602.10970)|null|
 |**2026-02-10**|**Beyond SMILES: Evaluating Agentic Systems for Drug Discovery**|Edward Wijaya et.al.|[2602.10163](http://arxiv.org/abs/2602.10163)|null|
 |**2026-02-08**|**TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations**|Matteo Rossi et.al.|[2602.07735](http://arxiv.org/abs/2602.07735)|null|
@@ -78,6 +82,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery**|Yiming Gao et.al.|[2602.11609](http://arxiv.org/abs/2602.11609)|null|
+|**2026-02-11**|**Patient Digital Twins for Chronic Care: Technical Hurdles, Lessons Learned, and the Road Ahead**|Micheal P. Papazoglou et.al.|[2602.11223](http://arxiv.org/abs/2602.11223)|null|
 |**2026-02-11**|**Bounding the Average Move Structure Query for Faster and Smaller RLBWT Permutations**|Nathaniel K. Brown et.al.|[2602.11029](http://arxiv.org/abs/2602.11029)|null|
 |**2026-02-11**|**dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning**|Arnav Shah et.al.|[2602.10603](http://arxiv.org/abs/2602.10603)|null|
 |**2026-02-10**|**STRAND: Sequence-Conditioned Transport for Single-Cell Perturbations**|Boyang Fu et.al.|[2602.10156](http://arxiv.org/abs/2602.10156)|null|
@@ -85,7 +91,7 @@ layout: default
 |**2026-02-11**|**Population-scale Ancestral Recombination Graphs with tskit 1.0**|Ben Jeffery et.al.|[2602.09649](http://arxiv.org/abs/2602.09649)|null|
 |**2026-02-09**|**AntigenLM: Structure-Aware DNA Language Modeling for Influenza**|Yue Pei et.al.|[2602.09067](http://arxiv.org/abs/2602.09067)|null|
 |**2026-02-09**|**scBench: Evaluating AI Agents on Single-Cell RNA-seq Analysis**|Kenny Workman et.al.|[2602.09063](http://arxiv.org/abs/2602.09063)|null|
-|**2026-02-09**|**Central Dogma Transformer II: An AI Microscope for Understanding Cellular Regulatory Mechanisms**|Nobuyuki Ota et.al.|[2602.08751](http://arxiv.org/abs/2602.08751)|null|
+|**2026-02-12**|**Central Dogma Transformer II: An AI Microscope for Understanding Cellular Regulatory Mechanisms**|Nobuyuki Ota et.al.|[2602.08751](http://arxiv.org/abs/2602.08751)|null|
 |**2026-02-09**|**Deep Learning-Based Fixation Type Prediction for Quality Assurance in Digital Pathology**|Oskar Thaeter et.al.|[2602.08652](http://arxiv.org/abs/2602.08652)|null|
 |**2026-02-09**|**ClusterChirp: A GPU-accelerated Web Server for Natural Language-Guided Interactive Visualization and Analysis of Large Omics Data**|Osho Rawal et.al.|[2602.08280](http://arxiv.org/abs/2602.08280)|null|
 |**2026-02-08**|**MetaHQ: Harmonized, high-quality metadata annotations of public omics samples and studies**|Parker Hicks et.al.|[2602.07805](http://arxiv.org/abs/2602.07805)|null|
@@ -151,6 +157,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery**|Yiming Gao et.al.|[2602.11609](http://arxiv.org/abs/2602.11609)|null|
 |**2026-02-11**|**Towards Universal Spatial Transcriptomics Super-Resolution: A Generalist Physically Consistent Flow Matching Framework**|Xinlei Huang et.al.|[2602.10644](http://arxiv.org/abs/2602.10644)|null|
 |**2026-02-09**|**scBench: Evaluating AI Agents on Single-Cell RNA-seq Analysis**|Kenny Workman et.al.|[2602.09063](http://arxiv.org/abs/2602.09063)|null|
 |**2026-02-10**|**Scalable Mean-Field Variational Inference via Preconditioned Primal-Dual Optimization**|Jinhua Lyu et.al.|[2602.07632](http://arxiv.org/abs/2602.07632)|null|
@@ -187,6 +194,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Enhanced Portable Ultra Low-Field Diffusion Tensor Imaging with Bayesian Artifact Correction and Deep Learning-Based Super-Resolution**|Mark D. Olchanyi et.al.|[2602.11446](http://arxiv.org/abs/2602.11446)|null|
+|**2026-01-30**|**MuCO: Generative Peptide Cyclization Empowered by Multi-stage Conformation Optimization**|Yitian Wang et.al.|[2602.11189](http://arxiv.org/abs/2602.11189)|null|
 |**2026-02-10**|**Generalized Prediction-Powered Inference, with Application to Binary Classifier Evaluation**|Runjia Zou et.al.|[2602.10332](http://arxiv.org/abs/2602.10332)|null|
 |**2026-02-09**|**DrugR: Optimizing Molecular Drugs through LLM-based Explicit Reasoning**|Haoran Liu et.al.|[2602.08213](http://arxiv.org/abs/2602.08213)|null|
 |**2026-02-08**|**Fast Model Selection and Stable Optimization for Softmax-Gated Multinomial-Logistic Mixture of Experts Models**|TrungKhang Tran et.al.|[2602.07997](http://arxiv.org/abs/2602.07997)|null|
@@ -227,6 +236,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
+|**2026-02-12**|**Categorical Flow Maps**|Daan Roos et.al.|[2602.12233](http://arxiv.org/abs/2602.12233)|null|
+|**2026-02-12**|**Best of Both Worlds: Multimodal Reasoning and Generation via Unified Discrete Flow Matching**|Onkar Susladkar et.al.|[2602.12221](http://arxiv.org/abs/2602.12221)|null|
+|**2026-02-12**|**The Observer Effect in World Models: Invasive Adaptation Corrupts Latent Physics**|Christian Internò et.al.|[2602.12218](http://arxiv.org/abs/2602.12218)|null|
+|**2026-02-12**|**FAIL: Flow Matching Adversarial Imitation Learning for Image Generation**|Yeyao Ma et.al.|[2602.12155](http://arxiv.org/abs/2602.12155)|null|
+|**2026-02-12**|**JEPA-VLA: Video Predictive Embedding is Needed for VLA Models**|Shangchen Miao et.al.|[2602.11832](http://arxiv.org/abs/2602.11832)|null|
+|**2026-02-12**|**ABot-N0: Technical Report on the VLA Foundation Model for Versatile Embodied Navigation**|Zedong Chu et.al.|[2602.11598](http://arxiv.org/abs/2602.11598)|null|
+|**2026-02-12**|**Brain4FMs: A Benchmark of Foundation Models for Electrical Brain Signal**|Fanqi Shen et.al.|[2602.11558](http://arxiv.org/abs/2602.11558)|null|
+|**2026-02-12**|**Vascular anatomy-aware self-supervised pre-training for X-ray angiogram analysis**|De-Xing Huang et.al.|[2602.11536](http://arxiv.org/abs/2602.11536)|null|
+|**2026-02-12**|**SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis**|Yifan Liang et.al.|[2602.11477](http://arxiv.org/abs/2602.11477)|null|
 |**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
 |**2026-02-11**|**FastFlow: Accelerating The Generative Flow Matching Models with Bandit Inference**|Divya Jyoti Bajpai et.al.|[2602.11105](http://arxiv.org/abs/2602.11105)|null|
 |**2026-02-11**|**Self-Supervised Learning for Speaker Recognition: A study and review**|Theo Lepage et.al.|[2602.10829](http://arxiv.org/abs/2602.10829)|null|
@@ -347,6 +366,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images**|Mathieu Sibue et.al.|[2602.12203](http://arxiv.org/abs/2602.12203)|null|
+|**2026-02-12**|**LLM-based Triplet Extraction from Financial Reports**|Dante Wesslund et.al.|[2602.11886](http://arxiv.org/abs/2602.11886)|null|
+|**2026-02-11**|**Patient Digital Twins for Chronic Care: Technical Hurdles, Lessons Learned, and the Road Ahead**|Micheal P. Papazoglou et.al.|[2602.11223](http://arxiv.org/abs/2602.11223)|null|
 |**2026-02-11**|**Pilot-Wave Theories as Hidden Markov Models**|Jacob A. Barandes et.al.|[2602.10569](http://arxiv.org/abs/2602.10569)|null|
 |**2026-02-11**|**An Ontology-driven Dynamic Knowledge Base for Uninhabited Ground Vehicles**|Hsan Sandar Win et.al.|[2602.10555](http://arxiv.org/abs/2602.10555)|null|
 |**2026-02-10**|**Historical Debates over the Physical Reality of the Wave Function**|Jacob A. Barandes et.al.|[2602.09397](http://arxiv.org/abs/2602.09397)|null|
@@ -418,6 +440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Protocols for a many-body phase microscope: From coherences and d-wave superconductivity to Green's functions**|Christof Weitenberg et.al.|[2602.12142](http://arxiv.org/abs/2602.12142)|null|
+|**2026-02-12**|**Calibrated Bayesian Deep Learning for Explainable Decision Support Systems Based on Medical Imaging**|Hua Xu et.al.|[2602.11973](http://arxiv.org/abs/2602.11973)|null|
+|**2026-02-12**|**Synthesis of Late Gadolinium Enhancement Images via Implicit Neural Representations for Cardiac Scar Segmentation**|Soufiane Ben Haddou et.al.|[2602.11942](http://arxiv.org/abs/2602.11942)|null|
+|**2026-02-12**|**Emergence of a Helical Metal in Rippled Ultrathin Topological Insulator Sb\textsubscript{2}Te\textsubscript{3} on Graphene**|Francisco Munoz et.al.|[2602.11932](http://arxiv.org/abs/2602.11932)|null|
+|**2026-02-12**|**Emergence of a spin Hall topological Hall effect in the non-collinear phase of the ferrimagnetic insulator terbium-iron garnet**|Mehak Loyal et.al.|[2602.11721](http://arxiv.org/abs/2602.11721)|null|
+|**2026-02-12**|**Epitaxial Growth and Anomalous Hall Effect in High-Quality Altermagnetic $α$ -MnTe Thin Films**|Tian-Hao Shao et.al.|[2602.11645](http://arxiv.org/abs/2602.11645)|null|
+|**2026-02-12**|**PLESS: Pseudo-Label Enhancement with Spreading Scribbles for Weakly Supervised Segmentation**|Yeva Gabrielyan et.al.|[2602.11628](http://arxiv.org/abs/2602.11628)|null|
+|**2026-02-12**|**Quantum Spin-1/2 Rings Built from [2]Triangulene Molecular Units**|Can Li et.al.|[2602.11593](http://arxiv.org/abs/2602.11593)|null|
+|**2026-02-12**|**Nanoscopic Imaging of Acoustic Dynamics in van der Waals Ferroelectric NbOI2**|Zhaodong Chu et.al.|[2602.11504](http://arxiv.org/abs/2602.11504)|null|
+|**2026-02-12**|**Structural control of two-level defect density revealed by high-throughput correlative measurements of Josephson junctions**|Oliver F. Wolff et.al.|[2602.11469](http://arxiv.org/abs/2602.11469)|null|
 |**2026-02-11**|**Spatial homogeneity of superconducting order parameter in NbN films grown by atomic layer deposition**|J. Lorenz et.al.|[2602.10839](http://arxiv.org/abs/2602.10839)|null|
 |**2026-02-11**|**Establishing the Magnetoelastic Origin of Spin-Wave Routing through Focused Ion Beam Patterning**|Felix Naunheimer et.al.|[2602.10797](http://arxiv.org/abs/2602.10797)|null|
 |**2026-02-11**|**Reinforced Curriculum Pre-Alignment for Domain-Adaptive VLMs**|Yuming Yan et.al.|[2602.10740](http://arxiv.org/abs/2602.10740)|null|
