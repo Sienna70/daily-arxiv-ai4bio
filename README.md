@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Structural barriers of the discrete Hasimoto map applied to protein backbone geometry**|Yiquan Wang et.al.|[2602.13160](http://arxiv.org/abs/2602.13160)|null|
 |**2026-02-12**|**Protein Circuit Tracing via Cross-layer Transcoders**|Darin Tsui et.al.|[2602.12026](http://arxiv.org/abs/2602.12026)|null|
 |**2026-02-11**|**Out-of-equilibrium selection pressure enhances inference from protein sequence data**|Nicola Dietler et.al.|[2602.11427](http://arxiv.org/abs/2602.11427)|null|
 |**2026-02-11**|**Hierarchical Testing of a Hybrid Machine Learning-Physics Global Atmosphere Model**|Ziming Chen et.al.|[2602.11313](http://arxiv.org/abs/2602.11313)|null|
@@ -96,6 +97,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**LinkedNN: a neural model of linkage disequilibrium decay for recent effective population size inference**|Chris C R Smith et.al.|[2602.13121](http://arxiv.org/abs/2602.13121)|null|
+|**2026-02-13**|**Uncovering spatial tissue domains and cell types in spatial omics through cross-scale profiling of cellular and genomic interactions**|Rui Yan et.al.|[2602.12651](http://arxiv.org/abs/2602.12651)|null|
 |**2026-02-12**|**scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery**|Yiming Gao et.al.|[2602.11609](http://arxiv.org/abs/2602.11609)|null|
 |**2026-02-11**|**Patient Digital Twins for Chronic Care: Technical Hurdles, Lessons Learned, and the Road Ahead**|Micheal P. Papazoglou et.al.|[2602.11223](http://arxiv.org/abs/2602.11223)|null|
 |**2026-02-11**|**Bounding the Average Move Structure Query for Faster and Smaller RLBWT Permutations**|Nathaniel K. Brown et.al.|[2602.11029](http://arxiv.org/abs/2602.11029)|null|
@@ -173,6 +176,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Uncovering spatial tissue domains and cell types in spatial omics through cross-scale profiling of cellular and genomic interactions**|Rui Yan et.al.|[2602.12651](http://arxiv.org/abs/2602.12651)|null|
+|**2026-02-12**|**Prototype-driven fusion of pathology and spatial transcriptomics for interpretable survival prediction**|Lihe Liu et.al.|[2602.12441](http://arxiv.org/abs/2602.12441)|null|
 |**2026-02-12**|**scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery**|Yiming Gao et.al.|[2602.11609](http://arxiv.org/abs/2602.11609)|null|
 |**2026-02-11**|**Towards Universal Spatial Transcriptomics Super-Resolution: A Generalist Physically Consistent Flow Matching Framework**|Xinlei Huang et.al.|[2602.10644](http://arxiv.org/abs/2602.10644)|null|
 |**2026-02-09**|**scBench: Evaluating AI Agents on Single-Cell RNA-seq Analysis**|Kenny Workman et.al.|[2602.09063](http://arxiv.org/abs/2602.09063)|null|
@@ -256,6 +261,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Order Matters in Retrosynthesis: Structure-aware Generation via Reaction-Center-Guided Discrete Flow Matching**|Chenguang Wang et.al.|[2602.13136](http://arxiv.org/abs/2602.13136)|null|
+|**2026-02-13**|**Diverging Flows: Detecting Extrapolations in Conditional Generation**|Constantinos Tsakonas et.al.|[2602.13061](http://arxiv.org/abs/2602.13061)|null|
+|**2026-02-13**|**TFTF: Training-Free Targeted Flow for Conditional Sampling**|Qianqian Qu et.al.|[2602.12932](http://arxiv.org/abs/2602.12932)|null|
+|**2026-02-13**|**Amortized Reasoning Tree Search: Decoupling Proposal and Decision in Large Language Models**|Zesheng Hong et.al.|[2602.12846](http://arxiv.org/abs/2602.12846)|null|
+|**2026-02-13**|**FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching**|Lei Lv et.al.|[2602.12829](http://arxiv.org/abs/2602.12829)|null|
+|**2026-02-13**|**SafeFlowMPC: Predictive and Safe Trajectory Planning for Robot Manipulators with Learning-based Policies**|Thies Oelerich et.al.|[2602.12794](http://arxiv.org/abs/2602.12794)|null|
+|**2026-02-13**|**Scaling Single Human Demonstrations for Imitation Learning using Generative Foundational Models**|Nick Heppert et.al.|[2602.12734](http://arxiv.org/abs/2602.12734)|null|
+|**2026-02-13**|**Flow Matching from Viewpoint of Proximal Operators**|Kenji Fukumizu et.al.|[2602.12683](http://arxiv.org/abs/2602.12683)|null|
+|**2026-02-13**|**Generative Site-Specific Beamforming via Information-Maximizing Codebook**|Cheng-Jie Zhao et.al.|[2602.12552](http://arxiv.org/abs/2602.12552)|null|
+|**2026-02-13**|**Flow-Factory: A Unified Framework for Reinforcement Learning in Flow-Matching Models**|Bowen Ping et.al.|[2602.12529](http://arxiv.org/abs/2602.12529)|null|
 |**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
 |**2026-02-12**|**Categorical Flow Maps**|Daan Roos et.al.|[2602.12233](http://arxiv.org/abs/2602.12233)|null|
 |**2026-02-12**|**Best of Both Worlds: Multimodal Reasoning and Generation via Unified Discrete Flow Matching**|Onkar Susladkar et.al.|[2602.12221](http://arxiv.org/abs/2602.12221)|null|
@@ -388,6 +403,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models**|Takoua Jradi et.al.|[2602.12419](http://arxiv.org/abs/2602.12419)|null|
+|**2026-02-12**|**ChemRecon: a Consolidated Meta-Database Platform for Biochemical Data Integration**|Casper Asbjørn Eriksen et.al.|[2602.12310](http://arxiv.org/abs/2602.12310)|null|
 |**2026-02-12**|**ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images**|Mathieu Sibue et.al.|[2602.12203](http://arxiv.org/abs/2602.12203)|null|
 |**2026-02-12**|**LLM-based Triplet Extraction from Financial Reports**|Dante Wesslund et.al.|[2602.11886](http://arxiv.org/abs/2602.11886)|null|
 |**2026-02-11**|**Patient Digital Twins for Chronic Care: Technical Hurdles, Lessons Learned, and the Road Ahead**|Micheal P. Papazoglou et.al.|[2602.11223](http://arxiv.org/abs/2602.11223)|null|
@@ -464,6 +481,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision**|Aadarsh Sahoo et.al.|[2602.13195](http://arxiv.org/abs/2602.13195)|null|
+|**2026-02-13**|**A Calibrated Memorization Index (MI) for Detecting Training Data Leakage in Generative MRI Models**|Yash Deo et.al.|[2602.13066](http://arxiv.org/abs/2602.13066)|null|
+|**2026-02-13**|**DynaGuide: A Generalizable Dynamic Guidance Framework for Unsupervised Semantic Segmentation**|Boujemaa Guermazi et.al.|[2602.13020](http://arxiv.org/abs/2602.13020)|null|
+|**2026-02-13**|**Limits of Kernelization and Parametrization for Phylogenetic Diversity with Dependencies**|Niels Holtgrefe et.al.|[2602.12959](http://arxiv.org/abs/2602.12959)|null|
+|**2026-02-13**|**On the effect of Edge vs bulk effects in Graphene Nanoribbons**|Colm Durkan et.al.|[2602.12944](http://arxiv.org/abs/2602.12944)|null|
+|**2026-02-13**|**Dual-Phase Cross-Modal Contrastive Learning for CMR-Guided ECG Representations for Cardiovascular Disease Assessment**|Laura Alvarez-Florez et.al.|[2602.12883](http://arxiv.org/abs/2602.12883)|null|
+|**2026-02-13**|**The Refractive Index of Gallium Antimonide**|Ulrich Galander et.al.|[2602.12862](http://arxiv.org/abs/2602.12862)|null|
+|**2026-02-13**|**Subcycle videography of lightwave-driven Landau-Zener-Majorana transitions in graphene**|Vincent Eggers et.al.|[2602.12844](http://arxiv.org/abs/2602.12844)|null|
+|**2026-02-13**|**Nanoscale Electroviscous Lift Force**|Hao Zhang et.al.|[2602.12832](http://arxiv.org/abs/2602.12832)|null|
+|**2026-02-13**|**3DLAND: 3D Lesion Abdominal Anomaly Localization Dataset**|Mehran Advand et.al.|[2602.12820](http://arxiv.org/abs/2602.12820)|null|
 |**2026-02-12**|**Protocols for a many-body phase microscope: From coherences and d-wave superconductivity to Green's functions**|Christof Weitenberg et.al.|[2602.12142](http://arxiv.org/abs/2602.12142)|null|
 |**2026-02-12**|**Calibrated Bayesian Deep Learning for Explainable Decision Support Systems Based on Medical Imaging**|Hua Xu et.al.|[2602.11973](http://arxiv.org/abs/2602.11973)|null|
 |**2026-02-12**|**Synthesis of Late Gadolinium Enhancement Images via Implicit Neural Representations for Cardiac Scar Segmentation**|Soufiane Ben Haddou et.al.|[2602.11942](http://arxiv.org/abs/2602.11942)|null|
