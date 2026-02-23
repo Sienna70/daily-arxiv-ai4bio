@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**HBAT 2: A Python Package to Analyse Hydrogen Bonds and Other Non-covalent Interactions in Macromolecular Structures**|Abhishek Tiwari et.al.|[2602.17712](http://arxiv.org/abs/2602.17712)|null|
 |**2026-02-19**|**Shortcut learning in geometric knot classification**|Djordje Mihajlovic et.al.|[2602.17350](http://arxiv.org/abs/2602.17350)|null|
 |**2026-02-18**|**Factorization Machine with Quadratic-Optimization Annealing for RNA Inverse Folding and Evaluation of Binary-Integer Encoding and Nucleotide Assignment**|Shuta Kikuchi et.al.|[2602.16643](http://arxiv.org/abs/2602.16643)|null|
 |**2026-02-18**|**Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models**|Yu Xie et.al.|[2602.16634](http://arxiv.org/abs/2602.16634)|null|
@@ -64,6 +65,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**ReqElicitGym: An Evaluation Environment for Interview Competence in Conversational Requirements Elicitation**|Dongming Jin et.al.|[2602.18306](http://arxiv.org/abs/2602.18306)|null|
 |**2026-02-11**|**Navigating heterogeneous protein landscapes through geometry-aware smoothing**|Srinivas Anumasa et.al.|[2602.10422](http://arxiv.org/abs/2602.10422)|null|
 |**2026-02-09**|**CausalT5K: Diagnosing and Informing Refusal for Trustworthy Causal Reasoning of Skepticism, Sycophancy, Detection-Correction, and Rung Collapse**|Longling Geng et.al.|[2602.08939](http://arxiv.org/abs/2602.08939)|null|
 |**2026-02-08**|**Thinking in Structures: Evaluating Spatial Intelligence through Reasoning on Constrained Manifolds**|Chen Yang et.al.|[2602.07864](http://arxiv.org/abs/2602.07864)|null|
@@ -91,6 +93,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**AgriVariant: Variant Effect Prediction using DeepChem-Variant for Precision Breeding in Rice**|Ankita Vaishnobi Bisoi et.al.|[2602.17747](http://arxiv.org/abs/2602.17747)|null|
+|**2026-02-19**|**GeneZip: Region-Aware Compression for Long Context DNA Modeling**|Jianan Zhao et.al.|[2602.17739](http://arxiv.org/abs/2602.17739)|null|
 |**2026-02-19**|**Systematic Evaluation of Single-Cell Foundation Model Interpretability Reveals Attention Captures Co-Expression Rather Than Unique Regulatory Signal**|Ihor Kendiukhov et.al.|[2602.17532](http://arxiv.org/abs/2602.17532)|null|
 |**2026-02-19**|**JEPA-DNA: Grounding Genomic Foundation Models through Joint-Embedding Predictive Architectures**|Ariel Larey et.al.|[2602.17162](http://arxiv.org/abs/2602.17162)|null|
 |**2026-02-17**|**Exploring the Utility of MALDI-TOF Mass Spectrometry and Antimicrobial Resistance in Hospital Outbreak Detection**|Chang Liu et.al.|[2602.16737](http://arxiv.org/abs/2602.16737)|null|
@@ -273,6 +277,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
+|**2026-02-20**|**Rethinking Flow and Diffusion Bridge Models for Speech Enhancement**|Dahan Wang et.al.|[2602.18355](http://arxiv.org/abs/2602.18355)|null|
+|**2026-02-20**|**Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning**|Yongjae Shin et.al.|[2602.18117](http://arxiv.org/abs/2602.18117)|null|
+|**2026-02-20**|**MeanVoiceFlow: One-step Nonparallel Voice Conversion with Mean Flows**|Takuhiro Kaneko et.al.|[2602.18104](http://arxiv.org/abs/2602.18104)|null|
+|**2026-02-20**|**Balancing Symmetry and Efficiency in Graph Flow Matching**|Benjamin Honoré et.al.|[2602.18084](http://arxiv.org/abs/2602.18084)|null|
+|**2026-02-19**|**MeDUET: Disentangled Unified Pretraining for 3D Medical Image Synthesis and Analysis**|Junkai Liu et.al.|[2602.17901](http://arxiv.org/abs/2602.17901)|null|
+|**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785](http://arxiv.org/abs/2602.17785)|null|
 |**2026-02-19**|**Conditional Flow Matching for Continuous Anomaly Detection in Autonomous Driving on a Manifold-Aware Spectral Space**|Antonio Guillen-Perez et.al.|[2602.17586](http://arxiv.org/abs/2602.17586)|null|
 |**2026-02-19**|**Tracing Copied Pixels and Regularizing Patch Affinity in Copy Detection**|Yichen Lu et.al.|[2602.17484](http://arxiv.org/abs/2602.17484)|null|
 |**2026-02-19**|**Variational Grey-Box Dynamics Matching**|Gurjeet Sangra Singh et.al.|[2602.17477](http://arxiv.org/abs/2602.17477)|null|
@@ -438,6 +449,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge**|Marcelo Labre et.al.|[2602.17826](http://arxiv.org/abs/2602.17826)|null|
 |**2026-02-19**|**Systematic Evaluation of Single-Cell Foundation Model Interpretability Reveals Attention Captures Co-Expression Rather Than Unique Regulatory Signal**|Ihor Kendiukhov et.al.|[2602.17532](http://arxiv.org/abs/2602.17532)|null|
 |**2026-02-19**|**Astra: AI Safety, Trust, & Risk Assessment**|Pranav Aggarwal et.al.|[2602.17357](http://arxiv.org/abs/2602.17357)|null|
 |**2026-02-19**|**A testable framework for AI alignment: Simulation Theology as an engineered worldview for silicon-based agents**|Josef A. Habdank et.al.|[2602.16987](http://arxiv.org/abs/2602.16987)|null|
@@ -534,6 +546,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Phase-field simulations of nucleation, growth, and coarsening of $β_1$ precipitates in Mg-Nd alloys**|Lingxia Shi et.al.|[2602.18430](http://arxiv.org/abs/2602.18430)|null|
+|**2026-02-20**|**Super-Resolution Structured-Illumination X-Ray Microscopy based on Fourier Decomposition**|Stefan Schwaiger et.al.|[2602.18343](http://arxiv.org/abs/2602.18343)|null|
+|**2026-02-20**|**G-LoG Bi-filtration for Medical Image Classification**|Qingsong Wang et.al.|[2602.18329](http://arxiv.org/abs/2602.18329)|null|
+|**2026-02-20**|**FeatureBleed: Inferring Private Enriched Attributes From Sparsity-Optimized AI Accelerators**|Darsh Asher et.al.|[2602.18304](http://arxiv.org/abs/2602.18304)|null|
+|**2026-02-20**|**Magnetic Force Imaging of 2D Topological Insulators**|Timothy W. Carlson et.al.|[2602.18281](http://arxiv.org/abs/2602.18281)|null|
+|**2026-02-20**|**Large Pyroelectric Enhancement in Freestanding Epitaxial BaTiO3 Membranes on Si**|Ajay Kumar et.al.|[2602.18267](http://arxiv.org/abs/2602.18267)|null|
+|**2026-02-20**|**Online FDR Controlling procedures for statistical SIS Model and its application to COVID19 data**|Seohwa Hwang et.al.|[2602.18241](http://arxiv.org/abs/2602.18241)|null|
+|**2026-02-20**|**Kolmogorov-Type Maximal Inequalities for Independent and Dependent Negative Binomial Random Variables: Sharp Bounds, Sub-Exponential Refinements, and Applications to Overdispersed Count Data**|Aristides V. Doumas et.al.|[2602.18184](http://arxiv.org/abs/2602.18184)|null|
+|**2026-02-20**|**RamanSeg: Interpretability-driven Deep Learning on Raman Spectra for Cancer Diagnosis**|Chris Tomy et.al.|[2602.18119](http://arxiv.org/abs/2602.18119)|null|
+|**2026-02-20**|**From Global Radiomics to Parametric Maps: A Unified Workflow Fusing Radiomics and Deep Learning for PDAC Detection**|Zengtian Deng et.al.|[2602.17986](http://arxiv.org/abs/2602.17986)|null|
 |**2026-02-19**|**SOLVAR: Fast covariance-based heterogeneity analysis with pose refinement for cryo-EM**|Roey Yadgar et.al.|[2602.17603](http://arxiv.org/abs/2602.17603)|null|
 |**2026-02-19**|**Measuring spectral functions of doped magnets with Rydberg tweezer arrays**|Romain Martin et.al.|[2602.17600](http://arxiv.org/abs/2602.17600)|null|
 |**2026-02-19**|**LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs**|Behzad Bozorgtabar et.al.|[2602.17535](http://arxiv.org/abs/2602.17535)|null|
