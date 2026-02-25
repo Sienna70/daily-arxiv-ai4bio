@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Protein Language Models Diverge from Natural Language: Comparative Analysis and Improved Inference**|Anna Hart et.al.|[2602.20449](http://arxiv.org/abs/2602.20449)|null|
+|**2026-02-23**|**Model Merging in the Essential Subspace**|Longhua Li et.al.|[2602.20208](http://arxiv.org/abs/2602.20208)|null|
+|**2026-02-22**|**KEMP-PIP: A Feature-Fusion Based Approach for Pro-inflammatory Peptide Prediction**|Soumik Deb Niloy et.al.|[2602.20198](http://arxiv.org/abs/2602.20198)|null|
 |**2026-02-23**|**Guiding Peptide Kinetics via Collective-Variable Tuning of Free-Energy Barriers**|Alexander Zhilkin et.al.|[2602.19936](http://arxiv.org/abs/2602.19936)|null|
 |**2026-02-21**|**AAVGen: Precision Engineering of Adeno-associated Viral Capsids for Renal Selective Targeting**|Mohammadreza Ghaffarzadeh-Esfahani et.al.|[2602.18915](http://arxiv.org/abs/2602.18915)|null|
 |**2026-02-16**|**HBAT 2: A Python Package to Analyse Hydrogen Bonds and Other Non-covalent Interactions in Macromolecular Structures**|Abhishek Tiwari et.al.|[2602.17712](http://arxiv.org/abs/2602.17712)|null|
@@ -95,6 +98,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**UrbanFM: Scaling Urban Spatio-Temporal Foundation Models**|Wei Chen et.al.|[2602.20677](http://arxiv.org/abs/2602.20677)|null|
 |**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)|null|
 |**2026-02-23**|**Variations on the Problem of Identifying Spectrum-Preserving String Sets**|Sankardeep Chakraborty et.al.|[2602.19408](http://arxiv.org/abs/2602.19408)|null|
 |**2026-02-21**|**Conditionally Site-Independent Neural Evolution of Antibody Sequences**|Stephen Zhewen Lu et.al.|[2602.18982](http://arxiv.org/abs/2602.18982)|null|
@@ -288,6 +292,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Communication-Inspired Tokenization for Structured Image Representations**|Aram Davtyan et.al.|[2602.20731](http://arxiv.org/abs/2602.20731)|null|
+|**2026-02-24**|**PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models**|Wonyong Seo et.al.|[2602.20583](http://arxiv.org/abs/2602.20583)|null|
+|**2026-02-24**|**Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation**|Lin Li et.al.|[2602.20479](http://arxiv.org/abs/2602.20479)|null|
+|**2026-02-23**|**Hierarchical Molecular Representation Learning via Fragment-Based Self-Supervised Embedding Prediction**|Jiele Wu et.al.|[2602.20344](http://arxiv.org/abs/2602.20344)|null|
+|**2026-02-23**|**Fast Spectrogram Event Extraction via Offline Self-Supervised Learning: From Fusion Diagnostics to Bioacoustics**|Nathaniel Chen et.al.|[2602.20317](http://arxiv.org/abs/2602.20317)|null|
 |**2026-02-23**|**PackFlow: Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment**|Akshay Subramanian et.al.|[2602.20140](http://arxiv.org/abs/2602.20140)|null|
 |**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[2602.20135](http://arxiv.org/abs/2602.20135)|null|
 |**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)|null|
@@ -470,6 +479,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**On Hydrodynamic Formulations of Quantum Mechanics and the Problem of Sparse Ontology**|Aric Hackebill et.al.|[2602.21106](http://arxiv.org/abs/2602.21106)|null|
+|**2026-02-24**|**The Initial Exploration Problem in Knowledge Graph Exploration**|Claire McNamara et.al.|[2602.21066](http://arxiv.org/abs/2602.21066)|null|
+|**2026-02-23**|**An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models**|Cathy Shyr et.al.|[2602.20324](http://arxiv.org/abs/2602.20324)|null|
 |**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[2602.20135](http://arxiv.org/abs/2602.20135)|null|
 |**2026-02-23**|**Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming**|Ian Steenstra et.al.|[2602.19948](http://arxiv.org/abs/2602.19948)|null|
 |**2026-02-23**|**Transfer Learning with Network Embeddings under Structured Missingness**|Mengyan Li et.al.|[2602.19922](http://arxiv.org/abs/2602.19922)|null|
@@ -577,6 +589,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision**|Nicolás Gaggion et.al.|[2602.21179](http://arxiv.org/abs/2602.21179)|null|
+|**2026-02-24**|**XMorph: Explainable Brain Tumor Analysis Via LLM-Assisted Hybrid Deep Intelligence**|Sepehr Salem Ghahfarokhi et.al.|[2602.21178](http://arxiv.org/abs/2602.21178)|null|
+|**2026-02-24**|**Rapid Primary Radiation Damage Resistance Assessment of Precipitation-Hardened Cu Alloys**|Elena Botica-Artalejo et.al.|[2602.21093](http://arxiv.org/abs/2602.21093)|null|
+|**2026-02-24**|**MIP Candy: A Modular PyTorch Framework for Medical Image Processing**|Tianhao Fu et.al.|[2602.21033](http://arxiv.org/abs/2602.21033)|null|
+|**2026-02-24**|**Ferromagnetism above 200 K in organic-ion intercalated CrSBr**|Sofia Ferreira-Teixeira et.al.|[2602.20940](http://arxiv.org/abs/2602.20940)|null|
+|**2026-02-24**|**Simulating Microwave-Controlled Spin Imaging with Free-Space Electrons**|Santiago Beltrán-Romero et.al.|[2602.20852](http://arxiv.org/abs/2602.20852)|null|
+|**2026-02-24**|**Hybrid Fusion: One-Minute Efficient Training for Zero-Shot Cross-Domain Image Fusion**|Ran Zhang et.al.|[2602.20851](http://arxiv.org/abs/2602.20851)|null|
+|**2026-02-24**|**FLIM Networks with Bag of Feature Points**|João Deltregia Martinelli et.al.|[2602.20845](http://arxiv.org/abs/2602.20845)|null|
+|**2026-02-24**|**Epitaxial Films as Model Platform for Understanding Compositionally Complex Electrocatalysts**|Satyakam Kar et.al.|[2602.20784](http://arxiv.org/abs/2602.20784)|null|
+|**2026-02-24**|**Federated Learning for Cross-Modality Medical Image Segmentation via Augmentation-Driven Generalization**|Sachin Dudda Nagaraju et.al.|[2602.20773](http://arxiv.org/abs/2602.20773)|null|
 |**2026-02-23**|**Modeling Epidemiological Dynamics Under Adversarial Data and User Deception**|Yiqi Su et.al.|[2602.20134](http://arxiv.org/abs/2602.20134)|null|
 |**2026-02-23**|**Token-UNet: A New Case for Transformers Integration in Efficient and Interpretable 3D UNets for Brain Imaging Segmentation**|Louis Fabrice Tshimanga et.al.|[2602.20008](http://arxiv.org/abs/2602.20008)|null|
 |**2026-02-23**|**Gradient based Severity Labeling for Biomarker Classification in OCT**|Kiran Kokilepersaud et.al.|[2602.19907](http://arxiv.org/abs/2602.19907)|null|
