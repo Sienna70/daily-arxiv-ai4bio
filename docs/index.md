@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Probing the Geometry of Diffusion Models with the String Method**|Elio Moreau et.al.|[2602.22122](http://arxiv.org/abs/2602.22122)|null|
+|**2026-02-25**|**From Words to Amino Acids: Does the Curse of Depth Persist?**|Aleena Siji et.al.|[2602.21750](http://arxiv.org/abs/2602.21750)|null|
 |**2026-02-24**|**Protein Language Models Diverge from Natural Language: Comparative Analysis and Improved Inference**|Anna Hart et.al.|[2602.20449](http://arxiv.org/abs/2602.20449)|null|
 |**2026-02-23**|**Model Merging in the Essential Subspace**|Longhua Li et.al.|[2602.20208](http://arxiv.org/abs/2602.20208)|null|
 |**2026-02-22**|**KEMP-PIP: A Feature-Fusion Based Approach for Pro-inflammatory Peptide Prediction**|Soumik Deb Niloy et.al.|[2602.20198](http://arxiv.org/abs/2602.20198)|null|
@@ -98,6 +100,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**BEDCrypt: Privacy-preserving interval analytics with homomorphic encryption**|Kimon Antonios Provatas et.al.|[2602.21994](http://arxiv.org/abs/2602.21994)|null|
+|**2026-02-25**|**Prediction of source nutrients for microorganisms using metabolic networks**|Olivia Bulka et.al.|[2602.21993](http://arxiv.org/abs/2602.21993)|null|
+|**2026-02-25**|**Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction**|Zhao Yang et.al.|[2602.21550](http://arxiv.org/abs/2602.21550)|null|
+|**2026-02-25**|**Effects of Training Data Quality on Classifier Performance**|Alan F. Karr et.al.|[2602.21462](http://arxiv.org/abs/2602.21462)|null|
+|**2026-02-24**|**Momentum Memory for Knowledge Distillation in Computational Pathology**|Yongxin Guo et.al.|[2602.21395](http://arxiv.org/abs/2602.21395)|null|
+|**2026-02-24**|**Some Asymptotic Results on Multiple Testing under Weak Dependence**|Swarnadeep Datta et.al.|[2602.21359](http://arxiv.org/abs/2602.21359)|null|
 |**2026-02-24**|**UrbanFM: Scaling Urban Spatio-Temporal Foundation Models**|Wei Chen et.al.|[2602.20677](http://arxiv.org/abs/2602.20677)|null|
 |**2026-02-23**|**Transcending the Annotation Bottleneck: AI-Powered Discovery in Biology and Medicine**|Soumick Chatterjee et.al.|[2602.20100](http://arxiv.org/abs/2602.20100)|null|
 |**2026-02-23**|**Variations on the Problem of Identifying Spectrum-Preserving String Sets**|Sankardeep Chakraborty et.al.|[2602.19408](http://arxiv.org/abs/2602.19408)|null|
@@ -244,6 +252,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**SAPNet++: Evolving Point-Prompted Instance Segmentation with Semantic and Spatial Awareness**|Zhaoyang Wei et.al.|[2602.21762](http://arxiv.org/abs/2602.21762)|null|
+|**2026-02-24**|**Shock-induced chiral magnetic effect**|Steven P. Harris et.al.|[2602.21294](http://arxiv.org/abs/2602.21294)|null|
 |**2026-02-22**|**On Identifying Critical Network Edges via Analyzing Changes in Shapes (Curvatures)**|Bhaskar DasGupta et.al.|[2602.19328](http://arxiv.org/abs/2602.19328)|null|
 |**2026-02-22**|**TeFlow: Enabling Multi-frame Supervision for Self-Supervised Feed-forward Scene Flow Estimation**|Qingwen Zhang et.al.|[2602.19053](http://arxiv.org/abs/2602.19053)|null|
 |**2026-02-09**|**BioLM-Score: Language-Prior Conditioned Probabilistic Geometric Potentials for Protein-Ligand Scoring**|Zhangfan Yang et.al.|[2602.18476](http://arxiv.org/abs/2602.18476)|null|
@@ -292,6 +302,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling**|Euisoo Jung et.al.|[2602.21760](http://arxiv.org/abs/2602.21760)|null|
+|**2026-02-25**|**Score-Based Conditional Flow Models for MIMO Receiver Design with Superimposed Pilots**|Ruhao Zhang et.al.|[2602.21654](http://arxiv.org/abs/2602.21654)|null|
+|**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
+|**2026-02-25**|**D-Flow SGLD: Source-Space Posterior Sampling for Scientific Inverse Problems with Flow Matching**|Meet Hemant Parikh et.al.|[2602.21469](http://arxiv.org/abs/2602.21469)|null|
+|**2026-02-24**|**Provably Safe Generative Sampling with Constricting Barrier Functions**|Darshan Gadginmath et.al.|[2602.21429](http://arxiv.org/abs/2602.21429)|null|
 |**2026-02-24**|**Communication-Inspired Tokenization for Structured Image Representations**|Aram Davtyan et.al.|[2602.20731](http://arxiv.org/abs/2602.20731)|null|
 |**2026-02-24**|**PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models**|Wonyong Seo et.al.|[2602.20583](http://arxiv.org/abs/2602.20583)|null|
 |**2026-02-24**|**Path-Decoupled Hyperbolic Flow Matching for Few-Shot Adaptation**|Lin Li et.al.|[2602.20479](http://arxiv.org/abs/2602.20479)|null|
@@ -589,6 +604,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[2602.21987](http://arxiv.org/abs/2602.21987)|null|
+|**2026-02-25**|**Protein Graph Neural Networks for Heterogeneous Cryo-EM Reconstruction**|Jonathan Krook et.al.|[2602.21915](http://arxiv.org/abs/2602.21915)|null|
+|**2026-02-25**|**GFPL: Generative Federated Prototype Learning for Resource-Constrained and Data-Imbalanced Vision Task**|Shiwei Lu et.al.|[2602.21873](http://arxiv.org/abs/2602.21873)|null|
+|**2026-02-25**|**SigVLP: Sigmoid Volume-Language Pre-Training for Self-Supervised CT-Volume Adaptive Representation Learning**|Jiayi Wang et.al.|[2602.21735](http://arxiv.org/abs/2602.21735)|null|
+|**2026-02-25**|**Private and Robust Contribution Evaluation in Federated Learning**|Delio Jaramillo Velez et.al.|[2602.21721](http://arxiv.org/abs/2602.21721)|null|
+|**2026-02-25**|**Innovative Tooth Segmentation Using Hierarchical Features and Bidirectional Sequence Modeling**|Xinxin Zhao et.al.|[2602.21712](http://arxiv.org/abs/2602.21712)|null|
+|**2026-02-25**|**CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis**|Di Zhang et.al.|[2602.21637](http://arxiv.org/abs/2602.21637)|null|
+|**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
+|**2026-02-25**|**Thickness-Driven Control of Room Temperature Ferrimagnetic Skyrmions and their Topological Hall signature in GdFe Single Layers**|Saroj Kumar Mishra et.al.|[2602.21603](http://arxiv.org/abs/2602.21603)|null|
+|**2026-02-25**|**ABM-UDE: Developing Surrogates for Epidemic Agent-Based Models via Scientific Machine Learning**|Sharv Murgai et.al.|[2602.21588](http://arxiv.org/abs/2602.21588)|null|
 |**2026-02-24**|**Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision**|Nicolás Gaggion et.al.|[2602.21179](http://arxiv.org/abs/2602.21179)|null|
 |**2026-02-24**|**XMorph: Explainable Brain Tumor Analysis Via LLM-Assisted Hybrid Deep Intelligence**|Sepehr Salem Ghahfarokhi et.al.|[2602.21178](http://arxiv.org/abs/2602.21178)|null|
 |**2026-02-24**|**Rapid Primary Radiation Damage Resistance Assessment of Precipitation-Hardened Cu Alloys**|Elena Botica-Artalejo et.al.|[2602.21093](http://arxiv.org/abs/2602.21093)|null|
