@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Generative Modeling in Protein Design: Neural Representations, Conditional Generation, and Evaluation Standards**|Senura Hansaja Wanasekara et.al.|[2603.26378](http://arxiv.org/abs/2603.26378)|null|
+|**2026-03-27**|**TurboESM: Ultra-Efficient 3-Bit KV Cache Quantization for Protein Language Models with Orthogonal Rotation and QJL Correction**|Yue Hu et.al.|[2603.26110](http://arxiv.org/abs/2603.26110)|null|
 |**2026-03-24**|**Generalizing Dynamics Modeling More Easily from Representation Perspective**|Yiming Wang et.al.|[2603.22655](http://arxiv.org/abs/2603.22655)|null|
 |**2026-03-23**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Kaiqiang Li et.al.|[2603.21511](http://arxiv.org/abs/2603.21511)|null|
 |**2026-03-22**|**Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs**|Zihui Chen et.al.|[2603.21155](http://arxiv.org/abs/2603.21155)|null|
@@ -159,6 +161,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Multi-scale Metabolic Modeling and Simulation**|Peter E. Carstensen et.al.|[2603.26370](http://arxiv.org/abs/2603.26370)|null|
+|**2026-03-27**|**Improved Approximation Algorithms and Hardness Results for Shortest Common Superstring with Reverse Complements**|Ryosuke Yamano et.al.|[2603.26176](http://arxiv.org/abs/2603.26176)|null|
+|**2026-03-27**|**DPD-Cancer: Explainable Graph-based Deep Learning for Small Molecule Anti-Cancer Activity Prediction**|Magnus H. Strømme et.al.|[2603.26114](http://arxiv.org/abs/2603.26114)|null|
+|**2026-03-27**|**MUST: Modality-Specific Representation-Aware Transformer for Diffusion-Enhanced Survival Prediction with Missing Modality**|Kyungwon Kim et.al.|[2603.26071](http://arxiv.org/abs/2603.26071)|null|
+|**2026-03-26**|**Good Scores, Bad Data: A Metric for Multimodal Coherence**|Vasundra Srinivasan et.al.|[2603.25924](http://arxiv.org/abs/2603.25924)|null|
+|**2026-03-26**|**Incorporating contextual information into KGWAS for interpretable GWAS discovery**|Cheng Jiang et.al.|[2603.25855](http://arxiv.org/abs/2603.25855)|null|
+|**2026-03-26**|**QHap: Quantum-Inspired Haplotype Phasing**|Rui Zhang et.al.|[2603.25762](http://arxiv.org/abs/2603.25762)|null|
+|**2026-03-26**|**Modeling the mutational dynamics of very short tandem repeats**|Amos Onn et.al.|[2603.25628](http://arxiv.org/abs/2603.25628)|null|
+|**2026-03-26**|**An Integrative Genome-Scale Metabolic Modeling and Machine Learning Framework for Predicting and Optimizing Biofuel-Relevant Biomass Production in Saccharomyces cerevisiae**|Neha K. Nair et.al.|[2603.25561](http://arxiv.org/abs/2603.25561)|null|
+|**2026-03-26**|**Fast Iteration of Spaced k-mers**|Lucas Czech et.al.|[2603.25417](http://arxiv.org/abs/2603.25417)|null|
 |**2026-03-24**|**PIM-CACHE: High-Efficiency Content-Aware Copy for Processing-In-Memory**|Peterson Yuhala et.al.|[2603.23762](http://arxiv.org/abs/2603.23762)|null|
 |**2026-03-24**|**Central Dogma Transformer III: Interpretable AI Across DNA, RNA, and Protein**|Nobuyuki Ota et.al.|[2603.23361](http://arxiv.org/abs/2603.23361)|null|
 |**2026-03-23**|**SynLeaF: A Dual-Stage Multimodal Fusion Framework for Synthetic Lethality Prediction Across Pan- and Single-Cancer Contexts**|Zheming Xing et.al.|[2603.22369](http://arxiv.org/abs/2603.22369)|null|
@@ -342,6 +354,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**FEAST: Fully Connected Expressive Attention for Spatial Transcriptomics**|Taejin Jeong et.al.|[2603.25247](http://arxiv.org/abs/2603.25247)|null|
+|**2026-03-26**|**Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells**|Han Zhang et.al.|[2603.25240](http://arxiv.org/abs/2603.25240)|null|
+|**2026-03-25**|**A Large-Scale Comparative Analysis of Imputation Methods for Single-Cell RNA Sequencing Data**|Yuichiro Iwashita et.al.|[2603.24626](http://arxiv.org/abs/2603.24626)|null|
 |**2026-03-25**|**i-IF-Learn: Iterative Feature Selection and Unsupervised Learning for High-Dimensional Complex Data**|Chen Ma et.al.|[2603.24025](http://arxiv.org/abs/2603.24025)|null|
 |**2026-03-24**|**Wasserstein Parallel Transport for Predicting the Dynamics of Statistical Systems**|Tristan Luca Saidi et.al.|[2603.23736](http://arxiv.org/abs/2603.23736)|null|
 |**2026-03-24**|**Cross-Slice Knowledge Transfer via Masked Multi-Modal Heterogeneous Graph Contrastive Learning for Spatial Gene Expression Inference**|Zhiceng Shi et.al.|[2603.22821](http://arxiv.org/abs/2603.22821)|null|
@@ -416,6 +431,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Generative Modeling in Protein Design: Neural Representations, Conditional Generation, and Evaluation Standards**|Senura Hansaja Wanasekara et.al.|[2603.26378](http://arxiv.org/abs/2603.26378)|null|
+|**2026-03-25**|**KANEL: Kolmogorov-Arnold Network Ensemble Learning Enables Early Hit Enrichment in High-Throughput Virtual Screening**|Pavel Koptev et.al.|[2603.25755](http://arxiv.org/abs/2603.25755)|null|
 |**2026-03-24**|**ZeroFold: Protein-RNA Binding Affinity Predictions from Pre-Structural Embeddings**|Josef Hanke et.al.|[2603.23583](http://arxiv.org/abs/2603.23583)|null|
 |**2026-03-23**|**Latent Style-based Quantum Wasserstein GAN for Drug Design**|Julien Baglio et.al.|[2603.22399](http://arxiv.org/abs/2603.22399)|null|
 |**2026-03-23**|**Learning Inflation Narratives from Reddit: How Lightweight LLMs Reveal Forward-Looking Economic Signals**|Ryuichi Saito et.al.|[2603.21501](http://arxiv.org/abs/2603.21501)|null|
@@ -497,6 +514,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation**|Nicolas von Lützow et.al.|[2603.26661](http://arxiv.org/abs/2603.26661)|null|
+|**2026-03-27**|**HolisticSemGes: Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching**|Lanmiao Liu et.al.|[2603.26553](http://arxiv.org/abs/2603.26553)|null|
+|**2026-03-27**|**Identifying Connectivity Distributions from Neural Dynamics Using Flows**|Timothy Doyeon Kim et.al.|[2603.26506](http://arxiv.org/abs/2603.26506)|null|
+|**2026-03-27**|**Generative Modeling in Protein Design: Neural Representations, Conditional Generation, and Evaluation Standards**|Senura Hansaja Wanasekara et.al.|[2603.26378](http://arxiv.org/abs/2603.26378)|null|
+|**2026-03-27**|**MPDiT: Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model**|Quan Dao et.al.|[2603.26357](http://arxiv.org/abs/2603.26357)|null|
+|**2026-03-27**|**DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching**|Jiayi Chen et.al.|[2603.26320](http://arxiv.org/abs/2603.26320)|null|
+|**2026-03-27**|**Cinematic Audio Source Separation Using Visual Cues**|Kang Zhang et.al.|[2603.26113](http://arxiv.org/abs/2603.26113)|null|
+|**2026-03-27**|**A Human-Inspired Decoupled Architecture for Efficient Audio Representation Learning**|Harunori Kawano et.al.|[2603.26098](http://arxiv.org/abs/2603.26098)|null|
+|**2026-03-27**|**Cone-Beam CT Image Quality Enhancement Using A Latent Diffusion Model Trained with Simulated CBCT Artifacts**|Naruki Murahashi et.al.|[2603.26014](http://arxiv.org/abs/2603.26014)|null|
+|**2026-03-27**|**JRM: Joint Reconstruction Model for Multiple Objects without Alignment**|Qirui Wu et.al.|[2603.25985](http://arxiv.org/abs/2603.25985)|null|
 |**2026-03-25**|**Marchuk: Efficient Global Weather Forecasting from Mid-Range to Sub-Seasonal Scales via Flow Matching**|Arsen Kuzhamuratov et.al.|[2603.24428](http://arxiv.org/abs/2603.24428)|null|
 |**2026-03-25**|**Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens**|Ciem Cornelissen et.al.|[2603.24327](http://arxiv.org/abs/2603.24327)|null|
 |**2026-03-25**|**Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching**|Anjun Gao et.al.|[2603.24054](http://arxiv.org/abs/2603.24054)|null|
@@ -855,6 +882,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Generalizable task-oriented object grasping through LLM-guided ontology and similarity-based planning**|Hao Chen et.al.|[2603.26412](http://arxiv.org/abs/2603.26412)|null|
+|**2026-03-26**|**How Class Ontology and Data Scale Affect Audio Transfer Learning**|Manuel Milling et.al.|[2603.25476](http://arxiv.org/abs/2603.25476)|null|
+|**2026-03-26**|**From Intent to Evidence: A Categorical Approach for Structural Evaluation of Deep Research Agents**|Shuoling Liu et.al.|[2603.25342](http://arxiv.org/abs/2603.25342)|null|
+|**2026-03-26**|**UniAI-GraphRAG: Synergizing Ontology-Guided Extraction, Multi-Dimensional Clustering, and Dual-Channel Fusion for Robust Multi-Hop Reasoning**|Jie Wang et.al.|[2603.25152](http://arxiv.org/abs/2603.25152)|null|
+|**2026-03-25**|**Causal Discovery on Dependent Mixed Data with Applications to Gene Regulatory Network Inference**|Alex Chen et.al.|[2603.24783](http://arxiv.org/abs/2603.24783)|null|
 |**2026-03-24**|**Aumann's theorem beyond ontology: quantum, postquantum, and indefinite causal order**|Carlo Cepollaro et.al.|[2603.23595](http://arxiv.org/abs/2603.23595)|null|
 |**2026-03-24**|**General Machine Learning: Theory for Learning Under Variable Regimes**|Aomar Osmani et.al.|[2603.23220](http://arxiv.org/abs/2603.23220)|null|
 |**2026-03-23**|**SynLeaF: A Dual-Stage Multimodal Fusion Framework for Synthetic Lethality Prediction Across Pan- and Single-Cancer Contexts**|Zheming Xing et.al.|[2603.22369](http://arxiv.org/abs/2603.22369)|null|
@@ -1033,6 +1065,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Role of a Quarter-Wave Plate in Confocal Microscopy: Signature of Spin-Orbit Interactions**|Wenze Lan et.al.|[2603.26485](http://arxiv.org/abs/2603.26485)|null|
+|**2026-03-27**|**Adapting Frozen Mono-modal Backbones for Multi-modal Registration via Contrast-Agnostic Instance Optimization**|Yi Zhang et.al.|[2603.26393](http://arxiv.org/abs/2603.26393)|null|
+|**2026-03-27**|**Biological Time Equivalence in Vertebrates: Thermodynamic Framework, Comparative Tests, and Clade-Specific Deviations**|Mesfin Taye et.al.|[2603.26377](http://arxiv.org/abs/2603.26377)|null|
+|**2026-03-27**|**Strain-released epitaxy of GaN enabled by compliant single-crystalline metal foils**|Yaqing Ma et.al.|[2603.26325](http://arxiv.org/abs/2603.26325)|null|
+|**2026-03-27**|**Antiferromagnetic stripe phase and large-gap insulating ground state of the correlated $\sqrt{3}\times\sqrt{3}$~R30$^{\circ}$ -Sn/Si(111) single atomic layer**|Mohammadmehdi Torkzadeh et.al.|[2603.26304](http://arxiv.org/abs/2603.26304)|null|
+|**2026-03-27**|**On the interpretation of Hahn echo measurements in electron spin resonance scanning tunneling microscopy**|Paul Greule et.al.|[2603.26255](http://arxiv.org/abs/2603.26255)|null|
+|**2026-03-27**|**The Unreconstructed α-Al $_{2}$O$_{3}$ (0001) Surface is Inhomogeneous and Rough**|Johanna I. Hütner-Reisch et.al.|[2603.26201](http://arxiv.org/abs/2603.26201)|null|
+|**2026-03-27**|**Provably Contractive and High-Quality Denoisers for Convergent Restoration**|Shubhi Shukla et.al.|[2603.26168](http://arxiv.org/abs/2603.26168)|null|
+|**2026-03-27**|**FairLLaVA: Fairness-Aware Parameter-Efficient Fine-Tuning for Large Vision-Language Assistants**|Mahesh Bhosale et.al.|[2603.26008](http://arxiv.org/abs/2603.26008)|null|
+|**2026-03-27**|**Liquid structure adjacent to solid surfaces follows the superposition principle**|Qian Ai et.al.|[2603.25992](http://arxiv.org/abs/2603.25992)|null|
 |**2026-03-25**|**Chiral Epitaxy: Enantioselective Growth of Chiral Nanowires on Low-Symmetry Two-Dimensional Materials**|Noya Ruth Itzhak et.al.|[2603.24565](http://arxiv.org/abs/2603.24565)|null|
 |**2026-03-25**|**Controlled antivortex propagation at bifurcations in reconfigurable NdCo/NiFe racetracks**|V. V. Fernandez et.al.|[2603.24520](http://arxiv.org/abs/2603.24520)|null|
 |**2026-03-25**|**Substrate-dependent pore formation in molybdenum disulfide monolayers under ion irradiation**|Y. Liebsch et.al.|[2603.24416](http://arxiv.org/abs/2603.24416)|null|
